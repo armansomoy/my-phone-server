@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 13 Pro",
+      "release_year": 2021,
+      "display_size_inches": 6.1,
+      "price_usd": 999
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S21 Ultra",
+      "release_year": 2021,
+      "display_size_inches": 6.8,
+      "price_usd": 1199
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "model": "Pixel 6 Pro",
+      "release_year": 2021,
+      "display_size_inches": 6.7,
+      "price_usd": 899
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "model": "OnePlus 9 Pro",
+      "release_year": 2021,
+      "display_size_inches": 6.7,
+      "price_usd": 1069
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "model": "Mi 11 Ultra",
+      "release_year": 2021,
+      "display_size_inches": 6.81,
+      "price_usd": 1199
+    }
+  ]
